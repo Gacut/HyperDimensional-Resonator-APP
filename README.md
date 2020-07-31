@@ -1,5 +1,6 @@
 # HyperDimensional-Resonator-APP
 It's an android fidget app that recreates the functions of Hyper Dimensional Resonator - An astral time traveling device.
+I am not much of a front-end guy. I just wanted to fiddle with back-end stuff with this project.
 
 It does not work like a original one, i find that a cool project to recreate it as an Android app
 
