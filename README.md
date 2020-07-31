@@ -4,7 +4,7 @@ I am not much of a front-end guy. I just wanted to fiddle with back-end stuff wi
 
 It does not work like a original one, i find that a cool project to recreate it as an Android app
 
-[Download for Android](https://github.com/Gacut/HyperDimensional-Resonator-APP/blob/master/Android%20APK/HyperDimensional%20Resonator.apk) - Be sure to turn on "Unknown sources" function in phone settings
+[Download for Android](https://github.com/Gacut/HyperDimensional-Resonator-APP/raw/master/Android%20APK/HyperDimensional%20Resonator.apk) - Be sure to turn on "Unknown sources" function in phone settings
 
 Usage:
 
