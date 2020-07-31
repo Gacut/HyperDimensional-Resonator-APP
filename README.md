@@ -12,3 +12,4 @@ Usage:
 5. When you set everything on, you can start to calibrate your astral counciousness to universe frequency by pressing rubbing plate and feel the frequency - At least that's what the original does.
 
 
+![HDR](https://i.imgur.com/wvxpWsV.png)
